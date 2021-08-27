@@ -1,0 +1,125 @@
+.seonav{
+    height:12vh;
+}
+#seolog{
+    height:7vh;
+}
+#navbarr{
+    background: #dc3545;
+}
+
+nav.navbar {
+    background: #dc3545;
+  }
+
+.search-hover {
+    border: 1px solid #ccc;
+    outline: none;
+   height: 2.5rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    width: 60px;
+    margin: 1.5rem;
+    transition: all 0.5s;
+  }
+  .search-hover:hover {
+    width: 300px;
+    padding-left: 50px;
+  }
+ 
+ .homie{
+    min-height: 80vh;
+}
+.homie2{
+    min-height: 50vh;
+}
+#rdmr{
+background-color: white;
+border: 2px solid white !important;
+  color: #000;
+  padding: 1.5rem 4.25rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.3rem;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+#rdmr:hover{
+    background-color:#000;
+    border: 2px solid white;
+      color: #fff;
+}
+
+#contus{
+    background-color:#000;
+    border: 2px solid black;
+
+      color: #fff;
+      padding: 1.5rem 4.25rem;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 1.3rem;
+      margin: 4px 2px;
+      cursor: pointer;
+    
+    }
+ #contus:hover{
+
+    background-color: white;
+    border: 2px solid black;
+      color: #000;
+    }
+    
+
+#home{
+    background-color: #f2f0f5;
+}
+.teal{
+    color: #01c4b6 ;
+}
+.tealrd{
+    padding: 5rem 5rem;
+    height:15rem;
+    width: 15rem;
+    background-color:#01c4b6 ;
+    border-radius: 50%;
+}
+
+#triangle-bottomright {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid red;
+    border-left: 100px solid transparent;
+  }
+
+  #pay{
+      
+  }
+
+  @media (min-width: 400px) {
+    #pay {
+        background: #dc3545;
+    }
+}
+
+@media (min-width: 1000px) {
+    #pay{
+        background: url(/img/Rectangle\ 7\ copy.png);
+      background-repeat: no-repeat;
+      background-position: right;
+    }
+}
+
+
+
+
+  #testicar{
+      margin-top: 5rem;
+      border-style:dotted;
+  }
+  #footer{
+      
+  }
